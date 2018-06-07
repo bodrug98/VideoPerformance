@@ -1,0 +1,168 @@
+D:\Bodrug Mihail\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+D:\Bodrug Mihail\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+D:\Bodrug Mihail\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+D:\Bodrug Mihail\FirstApp\FirstApp\bin\Debug\MetroFramework.Design.dll
+D:\Bodrug Mihail\FirstApp\FirstApp\bin\Debug\MetroFramework.dll
+D:\Bodrug Mihail\FirstApp\FirstApp\bin\Debug\MetroFramework.Fonts.dll
+D:\Bodrug Mihail\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+D:\Bodrug Mihail\FirstApp\FirstApp\obj\Debug\FirstApp.Form1.resources
+D:\Bodrug Mihail\FirstApp\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+D:\Bodrug Mihail\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.Cache
+D:\Bodrug Mihail\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+D:\Bodrug Mihail\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+D:\Bodrug Mihail\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
+D:\Bodrug Mihail\FirstApp\FirstApp\bin\Debug\FirstApp.exe.manifest
+D:\Bodrug Mihail\FirstApp\FirstApp\bin\Debug\FirstApp.application
+D:\Bodrug Mihail\FirstApp\FirstApp\obj\Debug\FirstApp.exe.manifest
+D:\Bodrug Mihail\FirstApp\FirstApp\obj\Debug\FirstApp.application
+C:\Users\Wladik\Documents\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+C:\Users\Wladik\Documents\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+C:\Users\Wladik\Documents\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
+C:\Users\Wladik\Documents\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+C:\Users\Wladik\Documents\FirstApp\FirstApp\obj\Debug\FirstApp.Form1.resources
+C:\Users\Wladik\Documents\FirstApp\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+C:\Users\Wladik\Documents\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.Cache
+C:\Users\Wladik\Documents\FirstApp\FirstApp\bin\Debug\FirstApp.exe.manifest
+C:\Users\Wladik\Documents\FirstApp\FirstApp\bin\Debug\FirstApp.application
+C:\Users\Wladik\Documents\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\Wladik\Documents\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\Wladik\Documents\FirstApp\FirstApp\bin\Debug\MetroFramework.Design.dll
+C:\Users\Wladik\Documents\FirstApp\FirstApp\bin\Debug\MetroFramework.dll
+C:\Users\Wladik\Documents\FirstApp\FirstApp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Wladik\Documents\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Wladik\Documents\FirstApp\FirstApp\obj\Debug\FirstApp.exe.manifest
+C:\Users\Wladik\Documents\FirstApp\FirstApp\obj\Debug\FirstApp.application
+C:\Users\Wladik\Documents\FirstApp\FirstApp\obj\Debug\FirstApp.Autentification.resources
+C:\Users\Wladik\Documents\FirstApp\FirstApp\obj\Debug\FirstApp.Register.resources
+C:\Users\Wladik\Documents\FirstApp\FirstApp\obj\Debug\FirstApp.MainForm.resources
+G:\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+G:\FirstApp\FirstApp\bin\Debug\FirstApp.exe.manifest
+G:\FirstApp\FirstApp\bin\Debug\FirstApp.application
+G:\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+G:\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+G:\FirstApp\FirstApp\bin\Debug\MetroFramework.Design.dll
+G:\FirstApp\FirstApp\bin\Debug\MetroFramework.dll
+G:\FirstApp\FirstApp\bin\Debug\MetroFramework.Fonts.dll
+G:\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+G:\FirstApp\FirstApp\obj\Debug\FirstApp.Autentification.resources
+G:\FirstApp\FirstApp\obj\Debug\FirstApp.Form1.resources
+G:\FirstApp\FirstApp\obj\Debug\FirstApp.MainForm.resources
+G:\FirstApp\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+G:\FirstApp\FirstApp\obj\Debug\FirstApp.Register.resources
+G:\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.Cache
+G:\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+G:\FirstApp\FirstApp\obj\Debug\FirstApp.exe.manifest
+G:\FirstApp\FirstApp\obj\Debug\FirstApp.application
+G:\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+G:\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
+D:\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+D:\FirstApp\FirstApp\bin\Debug\FirstApp.exe.manifest
+D:\FirstApp\FirstApp\bin\Debug\FirstApp.application
+D:\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+D:\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+D:\FirstApp\FirstApp\bin\Debug\MetroFramework.Design.dll
+D:\FirstApp\FirstApp\bin\Debug\MetroFramework.dll
+D:\FirstApp\FirstApp\bin\Debug\MetroFramework.Fonts.dll
+D:\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+D:\FirstApp\FirstApp\obj\Debug\FirstApp.Autentification.resources
+D:\FirstApp\FirstApp\obj\Debug\FirstApp.Form1.resources
+D:\FirstApp\FirstApp\obj\Debug\FirstApp.MainForm.resources
+D:\FirstApp\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+D:\FirstApp\FirstApp\obj\Debug\FirstApp.Register.resources
+D:\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.Cache
+D:\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+D:\FirstApp\FirstApp\obj\Debug\FirstApp.exe.manifest
+D:\FirstApp\FirstApp\obj\Debug\FirstApp.application
+D:\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+D:\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
+G:\FirstApp\FirstApp\obj\Debug\FirstApp.Basket.resources
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.Autentification.resources
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.Basket.resources
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.Form1.resources
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.MainForm.resources
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.Register.resources
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.Cache
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\bin\Debug\FirstApp.exe.manifest
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\bin\Debug\FirstApp.application
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\bin\Debug\MetroFramework.dll
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.exe.manifest
+C:\Users\Pc21a\Desktop\FirstApp\FirstApp\obj\Debug\FirstApp.application
+F:\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+F:\FirstApp\FirstApp\obj\Debug\FirstApp.Autentification.resources
+F:\FirstApp\FirstApp\obj\Debug\FirstApp.Basket.resources
+F:\FirstApp\FirstApp\obj\Debug\FirstApp.Form1.resources
+F:\FirstApp\FirstApp\obj\Debug\FirstApp.MainForm.resources
+F:\FirstApp\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+F:\FirstApp\FirstApp\obj\Debug\FirstApp.Register.resources
+F:\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.Cache
+F:\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+F:\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+F:\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
+F:\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+F:\FirstApp\FirstApp\bin\Debug\FirstApp.exe.manifest
+F:\FirstApp\FirstApp\bin\Debug\FirstApp.application
+F:\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+F:\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+F:\FirstApp\FirstApp\bin\Debug\MetroFramework.Design.dll
+F:\FirstApp\FirstApp\bin\Debug\MetroFramework.dll
+F:\FirstApp\FirstApp\bin\Debug\MetroFramework.Fonts.dll
+F:\FirstApp\FirstApp\obj\Debug\FirstApp.exe.manifest
+F:\FirstApp\FirstApp\obj\Debug\FirstApp.application
+D:\FirstApp\FirstApp\obj\Debug\FirstApp.Basket.resources
+F:\FirstApp\FirstApp\obj\Debug\FirstApp.Profile.resources
+F:\FirstApp\FirstApp\obj\Debug\FirstApp.Password.resources
+D:\FirstApp\FirstApp\obj\Debug\FirstApp.Password.resources
+D:\FirstApp\FirstApp\obj\Debug\FirstApp.Profile.resources
+D:\FirstApp\FirstApp\bin\Debug\FontAwesome.Net.dll
+D:\FirstApp\FirstApp\bin\Debug\FontAwesome.Net.pdb
+F:\FirstApp\FirstApp\bin\Debug\FontAwesome.Net.dll
+F:\FirstApp\FirstApp\bin\Debug\FontAwesome.Net.pdb
+F:\FirstApp\FirstApp\obj\Debug\FirstApp.Shoppingcart.resources
+G:\FirstApp\FirstApp\bin\Debug\FontAwesome.Net.dll
+G:\FirstApp\FirstApp\bin\Debug\FontAwesome.Net.pdb
+G:\FirstApp\FirstApp\obj\Debug\FirstApp.Password.resources
+G:\FirstApp\FirstApp\obj\Debug\FirstApp.Profile.resources
+G:\FirstApp\FirstApp\obj\Debug\FirstApp.Shoppingcart.resources
+F:\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.ResolveComReference.cache
+F:\FirstApp\FirstApp\bin\Debug\Xceed.Words.NET.dll
+D:\FirstApp\FirstApp\bin\Debug\Xceed.Words.NET.dll
+D:\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.ResolveComReference.cache
+D:\FirstApp\FirstApp\obj\Debug\FirstApp.Shoppingcart.resources
+E:\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+E:\FirstApp\FirstApp\bin\Debug\FirstApp.exe.manifest
+E:\FirstApp\FirstApp\bin\Debug\FirstApp.application
+E:\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+E:\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+E:\FirstApp\FirstApp\bin\Debug\FontAwesome.Net.dll
+E:\FirstApp\FirstApp\bin\Debug\MetroFramework.Design.dll
+E:\FirstApp\FirstApp\bin\Debug\MetroFramework.dll
+E:\FirstApp\FirstApp\bin\Debug\MetroFramework.Fonts.dll
+E:\FirstApp\FirstApp\bin\Debug\Xceed.Words.NET.dll
+E:\FirstApp\FirstApp\bin\Debug\FontAwesome.Net.pdb
+E:\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+E:\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.ResolveComReference.cache
+E:\FirstApp\FirstApp\obj\Debug\FirstApp.Autentification.resources
+E:\FirstApp\FirstApp\obj\Debug\FirstApp.Basket.resources
+E:\FirstApp\FirstApp\obj\Debug\FirstApp.Form1.resources
+E:\FirstApp\FirstApp\obj\Debug\FirstApp.MainForm.resources
+E:\FirstApp\FirstApp\obj\Debug\FirstApp.Password.resources
+E:\FirstApp\FirstApp\obj\Debug\FirstApp.Profile.resources
+E:\FirstApp\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+E:\FirstApp\FirstApp\obj\Debug\FirstApp.Register.resources
+E:\FirstApp\FirstApp\obj\Debug\FirstApp.Shoppingcart.resources
+E:\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.Cache
+E:\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+E:\FirstApp\FirstApp\obj\Debug\FirstApp.exe.manifest
+E:\FirstApp\FirstApp\obj\Debug\FirstApp.application
+E:\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+E:\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
